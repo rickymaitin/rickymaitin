@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rickymaitin
 - 👀 I’m interested in react js
-- 🌱 I’m currently learning java and javascript
+- 🌱 java and javascript
 - 💞️ I’m looking to collaborate on any projects for beginners
 - 📫 How to reach me ...
 facebook-ricklane maitin
